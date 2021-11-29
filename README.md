@@ -9,3 +9,4 @@ Hi there, I'm Mustafa Okcen - 👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okcenmmustafa&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=okcenmmustafa)](https://github.com/anuraghazra/github-readme-stats)
+)](https://github.com/anuraghazra/github-readme-stats)
